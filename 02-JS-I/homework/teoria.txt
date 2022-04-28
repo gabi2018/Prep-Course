@@ -1,0 +1,20 @@
+En un archivo de texto separado que debes crear, escribe explicaciones de los siguientes conceptos como si se lo estuvieras explicando a un niño de 12 años. Hacer esto te ayudará a descubrir rápidamente cualquier agujero en tu comprensión.
+
+Variables
+Una varible es un espacio de almacenamiento en donde se pueden guarda valores que posteriormente puedo modificar o no. 
+
+Strings
+Un Strings es una cadena de caracteres .
+
+Funciones (argumentos, return)
+Las FUNCIONES son espreciones dentro de los lenguajes de programaciòn las cuales probocan un aaccion y devuelven el resultado de esa accion.
+Tienen su estructura en donde se declara su accion y ademas para que se ejecuten hay que hacer la llmada a esa funciiòn.
+los argumentoson el elemento de entrada que puede tener una funcioòn y se reciben en la declaracion de dicha funciòn.
+El return es la sentencia que determina que va a devolver la funciòn y en la ubicasion que tenga va a "cortar" el funcionamiento de la funciòn .
+
+Declaraciones if
+El condicional if  es un controlador de flujo el cual controla que la condicion expresada sea cierta o no y de acuerdo a su codificasion realize una accion u otra.
+
+
+Valores booleanos (true, false)
+Los valores booleanos son esprecioones correspondiente a la numerciòn binaria de 0 y 1 . 0 false y 1 true 
