@@ -1,0 +1,16 @@
+En un archivo de texto separado que debes crear,
+ escribe explicaciones de los siguientes conceptos como si se lo estuvieras explicando a un niño de 12 años. Hacer esto te ayudará a descubrir rápidamente cualquier agujero en tu comprensión.
+for: es un condiciononal repetitivo de bucle el cual determina un bucle hasta que se cumpla la conci``on inicial establecida.
+su sintaxis es 
+for i=0;i<condcion;i (++,--,+2) {
+///codigo
+}
+i=0 es el indice d inizialisaciòn del bucle, 
+i<condciòn es hasta cuando se ba a ejecutarl el codigo.
+i ++ indica como se va a ir incrementado el indice hasta llegar al final, 
+
+&&: este operador logico determina la condicion de que se cumpla las conciones , evalua ambas condiciones.(And)
+
+ ||: Determina que se puede cumplir una "o" la otra expreciòn. (Or)
+ 
+ !:Operador logico para la Negaciòn "Not", devolvera el operador booleano opuesto a la expreciòn

@@ -7,9 +7,9 @@ Strings
 Un Strings es una cadena de caracteres .
 
 Funciones (argumentos, return)
-Las FUNCIONES son espreciones dentro de los lenguajes de programaciòn las cuales probocan un aaccion y devuelven el resultado de esa accion.
-Tienen su estructura en donde se declara su accion y ademas para que se ejecuten hay que hacer la llmada a esa funciiòn.
-los argumentoson el elemento de entrada que puede tener una funcioòn y se reciben en la declaracion de dicha funciòn.
+Las FUNCIONES son expreciones dentro de los lenguajes de programaciòn las cuales probocan una accion y devuelven el resultado de esa accion.
+Tienen su estructura en donde se declara su accion y ademas para que se ejecuten hay que hacer la llamada a esa funciòn.
+Los argumentos son el elemento de entrada que puede tener una funciòn y se reciben en la declaracion de dicha funciòn.
 El return es la sentencia que determina que va a devolver la funciòn y en la ubicasion que tenga va a "cortar" el funcionamiento de la funciòn .
 
 Declaraciones if
