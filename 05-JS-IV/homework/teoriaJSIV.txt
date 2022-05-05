@@ -1,0 +1,17 @@
+En un archivo de texto separado que debes crear, escribe explicaciones de los 
+iguientes conceptos como si se lo estuvieras explicando a un niño de 12 años. Hacer esto te ayudará a descubrir rápidamente cualquier agujero en tu comprensión.
+
+Objetos:Los objetos son contenedores de distintos tipos de informaciòn .
+Propiedades:Las propiedades son el contenido de los objetos las cuales pueden ser variables, matices o funciones. Se determinan mediante el concepto clave-valor
+en dodne la proidad es la clave y lo que se le asigna despues de los : es el valor.
+Bucle for…in
+Es un bucle de iteraciones con el cual podemos acceder  a los valorees del objeto.La palabra clave es como el indice que vaapasando atraves de las proopiedades del objeto .
+
+Notación de puntos vs notación de corchetes
+Son dos formas de ver las propiedades de un objeto por ejemplo
+objeto{
+    name:"Juan"
+}
+
+objeto.dni="34567890"
+objeto["apellido"]="Torres"
