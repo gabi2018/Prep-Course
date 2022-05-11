@@ -1,8 +1,17 @@
 h1{
     color: crimson;
 }
+body{
+background-image: url(pizza.jpg);
+}
 img{
-    width:400px;
+    width:200px;
+}
+div{
+    justify-content: center;
+    margin-right: auto;
+    margin-left: auto;
+    
 }
 #thirdDiv{
     height: 600px;
@@ -11,6 +20,7 @@ img{
     padding: 50px;
     border: 1060px;
     border-color: blueviolet;
+    list-style: none;
 }
 #spanId{
     font-size: 18px;

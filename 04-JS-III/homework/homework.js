@@ -27,7 +27,7 @@ function incrementarPorUno(array) {
   // Aumenta cada entero por 1
   // y devuelve el array
   // Tu código:
-for (let idex = 0; index < arra.length; index++) {
+for (let index = 0; index < array.length; index++) {
      array[index]=array[index]+1;
     
   }
@@ -66,7 +66,7 @@ var str
   for (let index = 0; index < array.length; index++) {
    str= +palabras[index]+" ";
   
-}
+  }
   return str
 }
 
@@ -116,6 +116,7 @@ function promedioResultadosTest(resultadosTest) {
 }
 
 
+
 function numeroMasGrande(numeros) {
   // "numeros" debe ser una matriz de enteros (int/integers)
   // Devuelve el número más grande
@@ -134,7 +135,7 @@ function numeroMasGrande(numeros) {
 function multiplicarArgumentos() {
   // Usa la palabra clave `arguments` para multiplicar 
   //todos los argumentos y devolver el producto
-  // Si no se pasan argumentos devuelve 0. Si se pasa un argumento, simplemente devuélvelo
+// Si no se pasan argumentos devuelve 0. Si se pasa un argumento, simplemente devuélvelo
   // Escribe tu código aquí:
  var total;
   if (arguments.length===0){
